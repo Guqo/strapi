@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "languages",
+  "info": {
+    "singularName": "language",
+    "pluralName": "languages",
+    "displayName": "language",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "info": {
+      "type": "richtext",
+      "required": true
+    },
+    "historyName": {
+      "type": "string"
+    },
+    "historyInfo": {
+      "type": "richtext"
+    },
+    "code": {
+      "type": "richtext"
+    }
+  }
+}

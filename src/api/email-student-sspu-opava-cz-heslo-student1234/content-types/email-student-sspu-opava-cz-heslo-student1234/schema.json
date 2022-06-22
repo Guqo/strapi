@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "email_student_sspu_opava_cz_heslo_student1234s",
+  "info": {
+    "singularName": "email-student-sspu-opava-cz-heslo-student1234",
+    "pluralName": "email-student-sspu-opava-cz-heslo-student1234s",
+    "displayName": "email: student@sspu-opava.cz  heslo: Student1234"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
